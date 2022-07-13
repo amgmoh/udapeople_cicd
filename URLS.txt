@@ -1,5 +1,5 @@
 https://github.com/amgmoh/udapeople_cicd
-http://udapeople-b3be6d9.s3-website-us-east-1.amazonaws.com
+http://udapeople-d879a82.s3-website-us-east-1.amazonaws.com
 https://d1p43pv1zd82c5.cloudfront.net
-https://ec2-107-23-193-221.compute-1.amazonaws.com
-http://54.86.104.103:9090
+http://ec2-54-89-255-142.compute-1.amazonaws.com:3030/api/status
+http://3.86.164.147:9090/
